@@ -5,7 +5,7 @@ baseurl:
 url: http://SNJX.github.io
 date_format: "ordinal"
 title: 骚年！小杰！
-subtitle: "打码改变人生"
+subtitle: "书写改变人生"
 description: "骚年的个人博客"
 keywords: 骚年, SNXJ, 码农
 favicon: /favicon.ico
@@ -17,9 +17,9 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: SNJX
-organization: ZYSK, Inc.
-organization_url: https://www.ZYSK.com
-location: Beijing, China
+organization: Zysk, Inc.
+organization_url: https://www.qiandaowei.com
+location: 北京, 中国
 email: jiexiaosheng@yeah.net
 
 # ---------------- #
@@ -97,7 +97,7 @@ comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
 duoshuo_username: SNXJ
-#disqus_username: SNXJ
+disqus_username: SNXJ
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: true
 
@@ -105,7 +105,7 @@ lazy_load_duoshuo: true
 #    Analytics     #
 # ---------------- #
 google:
-   # analytics_id: UA-80669434-1
+   analytics_id: UA-88357790-1
 
 # ---------------- #
 #      Datas       #

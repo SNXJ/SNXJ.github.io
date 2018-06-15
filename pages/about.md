@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About
+title: 骚年！小杰！
 description: 科技改变世界
 keywords: SNXJ
 comments: true
 menu: 关于
 permalink: /about/
 ---
-###骚年！小杰！
+
+
 
 
 		To follow the path:
@@ -38,9 +39,9 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/SNXJ)
+* GitHub：[@SNXJ](https://github.com/SNXJ)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@SNXJ](http://weibo.com/SNXJ)
+* 微博: SNXJ杰
 * 知乎: [@SNXJ](http://www.zhihu.com/people/SNXJ)
 * 豆瓣: [@SNXJ](http://www.douban.com/people/SNXJ)
 

@@ -1,7 +1,7 @@
 # SNXJ的博客
 
 
-  [SNXJ的博客](SNXJ.github.io)
+  [SNXJ的博客](http://snxj.github.io/)http://snxj.github.io/
 
 
 * 致谢：

@@ -41,9 +41,6 @@ permalink: /about/
 
 * GitHub：[@SNXJ](https://github.com/SNXJ)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: SNXJ杰
-* 知乎: [@SNXJ](http://www.zhihu.com/people/SNXJ)
-* 豆瓣: [@SNXJ](http://www.douban.com/people/SNXJ)
 
 ## Skill Keywords
 

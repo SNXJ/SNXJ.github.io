@@ -17,8 +17,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: SNXJ
-organization: Zhnagfujr
-organization_url: http://www.zhangfujr.com/
+organization: shwoody
+organization_url: http://www.shwoody.com/
 location: 上海
 email: 927990956@qq.com
 
@@ -105,6 +105,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, Kotlin，Flutter,TS,C++, Python]
-skill_mobile_app_keywords: [Android,Flutter, Uni,HM]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+skill_software_keywords: [Java, Kotlin, Flutter, vue, TS, C++, Python]
+skill_mobile_app_keywords: [Android, Flutter, UniApp, Harmony]
+

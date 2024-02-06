@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://SNJX.github.io
+url: http://SNXJ.github.io
 date_format: "ordinal"
 title: 骚年！小杰！
 subtitle: "书写改变人生"
@@ -19,8 +19,8 @@ side_bar_repo_limit: 5
 author: SNXJ
 organization: Zhnagfujr
 organization_url: http://www.zhangfujr.com/
-location: 北京
-email: jiexiaosheng@yeah.net
+location: 上海
+email: 927990956@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -83,11 +83,6 @@ repository: SNXJ/SNXJ.github.io
 #      Socials     #
 # ---------------- #
 github_username: SNXJ
-douban_username: SNXJ
-#facebook_username: SNXJ
-weibo_username: SNXJ
-zhihu_username: SNXJ
-#twitter_username: SNXJ
 
 # ---------------- #
 #      Comments    #
@@ -110,6 +105,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
+skill_software_keywords: [Java, Kotlin，Flutter,TS,C++, Python]
+skill_mobile_app_keywords: [Android,Flutter, Uni,HM]
 skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
